@@ -1,31 +1,31 @@
 [
     { 
-        "file": "context.dlc", 
-        "title": "Context Logo",
+        "file": "tu003150.dlc", 
+        "title": "Commercial DLC",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "one call away", "action": [75,0,4,4] }
         ]
     },
     { 
-        "file": "hacked.dlc", 
-        "title": "HACKED",
+        "file": "tu011010.dlc", 
+        "title": "Just like fire",
         "buttons": [
-            { "title": "Hacked 1", "action": [75,0,3,4] },
-            { "title": "Hacked 2", "action": [75,0,4,4] }
+            { "title": "Part 1", "action": [75,0,3,4] },
+            { "title": "Part 2", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "tu010600.dlc", 
+        "title": "Cheap thrills",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": " test ", "action": [75,0,1,4] }
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "tu011090.dlc", 
+        "title": "party rock",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "PARTY! ", "action": [75,0,1,4] }
         ]
     }
 ]
