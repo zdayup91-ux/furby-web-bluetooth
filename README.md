@@ -1,5 +1,5 @@
-# FurBLE - Furby Web Bluetooth Demo
-Use Web Bluetooth to control your Furby Connect! Tested with Chrome for Android.
+# FurBLE - Furby Web Bluetooth 
+My public project for testing dlc.
 
 ## [Try it out](https://zdayup91-ux.github.io/furby-web-bluetooth/furble.html)  or read [our blog](https://www.contextis.com/blog/dont-feed-them-after-midnight-reverse-engineering-the-furby-connect)
 
@@ -7,7 +7,7 @@ Use Web Bluetooth to control your Furby Connect! Tested with Chrome for Android.
 
 ### Working:
 - Connect to / disconnect from Furby
-- Send basic commands (e.g. actions, set antenna colour)
+- Upload old dlc
 - Send custom action numbers (see [list of action sequences](https://github.com/Jeija/bluefluff/blob/master/doc/actions.md))
 - Upload and activate DLC files
 - Decode and display Furby state (antenna joystick, body sensors, orientation)
