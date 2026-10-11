@@ -22,9 +22,8 @@
         ]
     },
     {
-        "file": "tu011090.dlc", 
-        "title": "party rock",
-        "buttons": [
+        "file": "tu002560.dlc", 
+        "title": "pirate personality"        "buttons": [
             { "title": "PARTY! ", "action": [75,0,1,4] }
         ]
     }
