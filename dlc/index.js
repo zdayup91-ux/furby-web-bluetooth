@@ -23,7 +23,8 @@
     },
     {
         "file": "tu002560.dlc", 
-        "title": "pirate personality"        "buttons": [
+        "title": "pirate personality"       
+        "buttons": [
             { "title": "PARTY! ", "action": [75,0,1,4] }
         ]
     }
