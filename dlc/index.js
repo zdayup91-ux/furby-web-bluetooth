@@ -1,31 +1,32 @@
 [
     { 
-        "file": "tu003150.dlc", 
-        "title": "Commercial DLC",
+        "file": "tu022120.dlc", 
+        "title": "metafurbdlc",
         "buttons": [
-            { "title": "one call away", "action": [75,0,4,4] }
+            { "title": "dunno", "action": [75,0,4,4] }
         ]
     },
     { 
-        "file": "tu011010.dlc", 
-        "title": "Just like fire",
+        "file": "tu010950.dlc", 
+        "title": "likefireithink",
         "buttons": [
-            { "title": "Part 1", "action": [75,0,3,4] },
-            { "title": "Part 2", "action": [75,0,4,4] }
+            { "title": "idk yet", "action": [75,0,3,4] },
+            { "title": "i dont know", "action": [75,0,4,4] }
+        ]
+    },
+      { 
+        "file": "popfu.dlc", 
+        "title": "furby popstar audio test",
+        "buttons": [
+            { "title": "idk yet", "action": [75,0,3,4] },
+            { "title": "i dont know", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "tu010600.dlc", 
-        "title": "Cheap thrills",
+        "file": "Russian.dlc", 
+        "title": "Russian dlc",
         "buttons": [
-            { "title": " test ", "action": [75,0,1,4] }
-        ]
-    },
-    {
-        "file": "tu002560.dlc", 
-        "title": "pirate personality"       
-        "buttons": [
-            { "title": "PARTY! ", "action": [75,0,1,4] }
+            { "title": "idk ", "action": [75,0,0,0] }
         ]
     }
 ]
