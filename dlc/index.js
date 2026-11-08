@@ -28,8 +28,8 @@
         ]
     },
     {
-        "file": "Russian.dlc", 
-        "title": "Russian dlc",
+        "file": "tu013410.dlc", 
+        "title": "dog",
         "buttons": [
             { "title": "idk ", "action": [75,0,0,0] }
         ]
